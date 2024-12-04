@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Urban_Module11_Quiz</string>
+    <string name="quiz_name">Викторина: Я историк</string>
+    <string name="start">Начать</string>
+
+    <string name="question_1">Как звали последнего царя Руси и первого Императора?</string>
+    <string name="question_2">Кто основал Москву?</string>
+    <string name="question_3">В каком году произошло Бородинское сражение?</string>
+    <string name="question_4">В каком году произошло крещение Руси?</string>
+    <string name="question_5">Как звали последнего российского императора?</string>
+
+    <string name="q1_answer_1">Павел I</string>
+    <string name="q1_answer_2">Петр I</string>
+    <string name="q1_answer_3">Александр I</string>
+
+    <string name="q2_answer_1">Юрий Долгорукий</string>
+    <string name="q2_answer_2">Ярослав Мудрый</string>
+    <string name="q2_answer_3">Владимир Красно Солнышко</string>
+
+    <string name="q3_answer_1">1380</string>
+    <string name="q3_answer_2">1242</string>
+    <string name="q3_answer_3">1812</string>
+
+    <string name="q4_answer_1">862</string>
+    <string name="q4_answer_2">988</string>
+    <string name="q4_answer_3">915</string>
+
+    <string name="q5_answer_1">Павел II</string>
+    <string name="q5_answer_2">Александр II</string>
+    <string name="q5_answer_3">Николай II</string>
+
+    <string name="mark_0">Плохо</string>
+    <string name="mark_100">Плохо</string>
+    <string name="mark_200">Неудовлетворительно</string>
+    <string name="mark_300">Удовлетворительно</string>
+    <string name="mark_400">Хорошо</string>
+    <string name="mark_500">Отлично</string>
+</resources>
